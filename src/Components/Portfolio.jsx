@@ -20,7 +20,6 @@ import React from "react";
  * freely use on your site.
  */
 import image from "src/images/woman-with-tablet.jpeg";
-
 const imageAltText = "Me";
 
 /**

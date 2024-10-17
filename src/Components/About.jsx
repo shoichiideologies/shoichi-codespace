@@ -17,7 +17,6 @@ import React from "react";
  * freely use on your site.
  */
 import image from "src/images/motion-background.jpg";
-
 const imageAltText = "Background";
 
 /**
