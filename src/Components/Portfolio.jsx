@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "src/images/woman-with-tablet.jpg";
+import image from "src/images/woman-with-tablet.jpeg";
 
 const imageAltText = "Me";
 
